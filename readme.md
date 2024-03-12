@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=H91aqUHn8sE -> for typescript set up guide
